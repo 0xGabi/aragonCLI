@@ -1,0 +1,14 @@
+# Editor files
+.vscode
+
+# Dependencies
+node_modules
+
+# Artifacts
+dist
+
+# Tests and coverage
+coverage
+
+# Tools
+lerna-debug.log
